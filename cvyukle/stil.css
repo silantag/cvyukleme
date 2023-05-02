@@ -1,0 +1,20 @@
+html body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 10px;
+}
+.yuzey{
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    color: white;
+    font-size: 30px;
+}
+.bilgi{
+    width: 65%;
+    padding: 25px;
+}
+.yuzey label{
+    padding-left: 25px;
+}
